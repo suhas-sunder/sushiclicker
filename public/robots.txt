@@ -1,4 +1,5 @@
 # robots.txt
 User-agent: *
 Allow: /
+
 Sitemap: https://www.sushiclicker.com/sitemap.xml

@@ -20,7 +20,9 @@
     "react-router": "^7.7.1"
   },
   "devDependencies": {
+    "@netlify/vite-plugin-react-router": "^1.0.1",
     "@react-router/dev": "^7.7.1",
+    "@remix-run/netlify": "^1.19.3",
     "@tailwindcss/vite": "^4.1.4",
     "@types/compression": "^1.7.5",
     "@types/express": "^5.0.1",
